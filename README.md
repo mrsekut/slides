@@ -12,15 +12,17 @@
 
 1. [ HTTP2 ](http://nbviewer.jupyter.org/format/slides/github/mrsekut/slides/blob/master/HTTP2.ipynb#/)
 
-   - 従来の HTTP の概要
-   - HTTP/2 の誕生の背景
-   - HTTP/2 の特徴
-     - ヘッダの圧縮
-     - リクエストの多重化
-     - リクエストの優先度制御
-     - サーバープッシュ
-     - バイナリプロトコル
-     - フロー制御
+   <details><summary>詳しく見る</summary>
+      - 従来の HTTP の概要
+      - HTTP/2 の誕生の背景
+      - HTTP/2 の特徴
+        - ヘッダの圧縮
+        - リクエストの多重化
+        - リクエストの優先度制御
+        - サーバープッシュ
+        - バイナリプロトコル
+        - フロー制御
+        </detail>
 
 2. [ なんで型なんてあるのか ](http://nbviewer.jupyter.org/format/slides/github/mrsekut/slides/blob/master/なんで型なんてあるのか.ipynb#/)
 
