@@ -12,7 +12,7 @@
 
 1. [ HTTP2 ](http://nbviewer.jupyter.org/format/slides/github/mrsekut/slides/blob/master/HTTP2.ipynb#/)
 
-   <details><summary>詳しく見る</summary>
+   <details><summary>大まかな内容</summary>
    <p>
 
    - 従来の HTTP の概要
@@ -29,7 +29,7 @@
 
 2. [ なんで型なんてあるのか ](http://nbviewer.jupyter.org/format/slides/github/mrsekut/slides/blob/master/なんで型なんてあるのか.ipynb#/)
 
-   <details><summary>詳しく見る</summary>
+   <details><summary>大まかな内容</summary>
    <p>
 
    - 静的型付けと動的型付け
@@ -40,7 +40,7 @@
 
 3. [Go 言語で潜る](http://nbviewer.jupyter.org/format/slides/github/mrsekut/slides/blob/master/Go%E8%A8%80%E8%AA%9E%E3%81%A7%E6%BD%9C%E3%82%8B.ipynb#/)
 
-   <details><summary>詳しく見る</summary>
+   <details><summary>大まかな内容</summary>
    <p>
 
    - ファイルディスクリプタについて
@@ -52,7 +52,7 @@
 
 4. [ざっくり TCP_UDP](http://nbviewer.jupyter.org/format/slides/github/mrsekut/slides/blob/master/%E3%81%96%E3%81%A3%E3%81%8F%E3%82%8ATCP_UDP.ipynb#/)
 
-   <details><summary>詳しく見る</summary>
+   <details><summary>大まかな内容</summary>
    <p>
 
    - TCP/IP モデルについて
