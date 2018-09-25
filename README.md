@@ -14,6 +14,7 @@
 
    <details>
     <summary>詳しく見る</summary>
+
     <div>
       - 従来の HTTP の概要
       - HTTP/2 の誕生の背景
@@ -31,6 +32,7 @@
 
    <details>
     <summary>詳しく見る</summary>
+
     <div>
         - 静的型付けと動的型付け
         - 強い型、弱い型
@@ -42,6 +44,7 @@
 
    <details>
     <summary>詳しく見る</summary>
+
     <div>
         - ファイルディスクリプタについて
         - CPU の動作モードについて
@@ -51,8 +54,10 @@
    </detail>
 
 4. [ざっくり TCP_UDP](http://nbviewer.jupyter.org/format/slides/github/mrsekut/slides/blob/master/%E3%81%96%E3%81%A3%E3%81%8F%E3%82%8ATCP_UDP.ipynb#/)
+
    <details>
     <summary>詳しく見る</summary>
+
     <div>
         - TCP/IP モデルについて
         - TCP について
