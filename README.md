@@ -93,9 +93,20 @@
        <details><summary>大まかな内容</summary>
        <p>
 
-    - [blog]()
     - 大まかなレンダリングの流れ
     - RAIL というパフォーマンス指標
     - Chrome DevTool で計測する
+      </p>
+      </details>
+
+8.  [スタックとヒープを知る](http://nbviewer.jupyter.org/format/slides/github/mrsekut/slides/blob/master/%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E3%81%A8%E3%83%92%E3%83%BC%E3%83%97%E3%82%92%E7%9F%A5%E3%82%8B.ipynb#/)
+
+       <details><summary>大まかな内容</summary>
+       <p>
+
+    - [blog](https://wp.me/pabxMo-Oz)
+    - メモリの 4 領域
+    - スタックとは
+    - ヒープとは
       </p>
       </details>
