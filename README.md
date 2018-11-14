@@ -110,3 +110,23 @@
     - ヒープとは
       </p>
       </details>
+
+9.  [vim 入門](http://nbviewer.jupyter.org/format/slides/github/mrsekut/slides/blob/master/vim%E5%85%A5%E9%96%80.ipynb#/)
+
+       <details><summary>大まかな内容</summary>
+       <p>
+
+    - 基本のキホン
+      </p>
+      </details>
+
+10. [react-context-api](http://nbviewer.jupyter.org/format/slides/github/mrsekut/slides/blob/master/react-context-api.ipynb#/)
+
+      <details><summary>大まかな内容</summary>
+      <p>
+
+    - ContextAPI 概要
+    - Redux との使い分け
+    - Hooks を使う
+      </p>
+      </details>
