@@ -130,3 +130,24 @@
     - Hooks を使う
       </p>
       </details>
+
+11. [Wirting A Lexer In Nim](https://nbviewer.jupyter.org/format/slides/github/mrsekut/slides/blob/master/WirtingALexerInNim.ipynb#/)
+
+      <details><summary>大まかな内容</summary>
+      <p>
+
+    - インタプリタとはなにか
+    - Lexer とはなにか
+    - 作りにあたってなにを学んだか
+      </p>
+      </details>
+
+12. [The Strongest Language Nim](https://nbviewer.jupyter.org/format/slides/github/mrsekut/slides/blob/master/TheMostPowerfulLanguageNim.ipynb#/)
+
+      <details><summary>大まかな内容</summary>
+      <p>
+
+    - Nim の特徴
+    - 他の言語との比較
+      </p>
+      </details>
