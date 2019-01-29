@@ -57,7 +57,7 @@
     <details><summary>大まかな内容</summary>
     <p>
 
-    - [blog]()
+    - [blog: TCP と UDP の特徴をざっくり知る](https://mrsekut.site/?p=3111)
     - TCP/IP モデルについて
     - TCP について
     - UDP について
@@ -104,7 +104,7 @@
        <details><summary>大まかな内容</summary>
        <p>
 
-    - [blog](https://wp.me/pabxMo-Oz)
+    - [blog: スタックとヒープを知る](https://mrsekut.site/?p=3135)
     - メモリの 4 領域
     - スタックとは
     - ヒープとは
@@ -125,6 +125,7 @@
       <details><summary>大まかな内容</summary>
       <p>
 
+    - [blog: contextAPI と useContext を知る、それと react-redux も。](https://mrsekut.site/?p=3233)
     - ContextAPI 概要
     - Redux との使い分け
     - Hooks を使う
@@ -136,6 +137,7 @@
       <details><summary>大まかな内容</summary>
       <p>
 
+    - [blog: Nim で Lexer を書いた](https://mrsekut.site/?p=3263)
     - インタプリタとはなにか
     - Lexer とはなにか
     - 作りにあたってなにを学んだか
